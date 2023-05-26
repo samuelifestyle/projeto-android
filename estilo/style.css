@@ -29,6 +29,7 @@
 body {
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
+    
 }
 
 a.externo::after {
@@ -57,7 +58,7 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     display: block;
-    width: 500px;
+    width: 350px;
     margin: auto;
     margin-bottom: 20px;
     padding-right: 10px;
